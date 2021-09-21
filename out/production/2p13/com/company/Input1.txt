@@ -1,0 +1,10 @@
+P,0-d,d,g,d,d,g,w,d
+L,0-d,g,w,d,g,w,d
+B,0-d,d,g,w,d,g,d,d
+P,500-d,d,g,d,g,d,d,d,w,d,d,g,w,d,d
+P,1000-d,d,d,g,d,g,d,d,d,w,d,d,g,w,d,d
+P,500-d,d,g,d,g,d,d,g,w,d,d
+B,1200-d,d,g,w,d,g,d,d
+L,300-d,g,w,d
+P,2500-d,d,g,d,w,d,d
+B,3000-d,d,g,w,d
